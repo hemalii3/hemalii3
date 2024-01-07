@@ -2,6 +2,7 @@
 <h3>frontend developer</h3>
 
 - 🌱 I’m currently learning **Next js and Node js**
+- 
 
 - 📫 How to reach me **hemalisuthar3@gmail.com**
 
