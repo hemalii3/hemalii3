@@ -1,7 +1,7 @@
 <h1>Hellow I'm Hemali</h1>
 <h3>frontend developer</h3>
 
-- 🌱 I’m currently learning **Next js and Node js**
+- 🌱 I’m currently learning **Next js and Node Js**
 - 
 
 - 📫 How to reach me **hemalisuthar3@gmail.com**
